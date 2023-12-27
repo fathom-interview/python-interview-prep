@@ -27,7 +27,7 @@ Take a look around and use this as a playground. Be sure you understand how to:
 
 ### 3. Test Scenario
 
-If you think you're ready, try this quick task and answer the following questions.
+If you think you're ready, try this quick task and answer the following questions. No need to record your answers.
 
 1. Run `make run`.
     - What is the output? What file that was run?
@@ -40,6 +40,6 @@ If you think you're ready, try this quick task and answer the following question
 
 ### 4. Tear Down
 
-If you got here and completed everything, looks like you're ready! To close a codespace, simply close the tab. In the repository, click `Code`, the `Codespaces` tab then click the ellipsis sign next to your codespace name then Delete. You will be required to do this at the end of each question.
+If you got here and completed everything, looks like you're ready! To close a codespace, simply close the tab. In the repository, click `Code`, the `Codespaces` tab then click the ellipsis sign next to your codespace name then Delete (you may need to refresh the page before doing this). You will be required to do this at the end of each question.
 
 ![Deleting a Codespace](./img/delete_codespace.png)

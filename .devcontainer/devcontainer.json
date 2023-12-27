@@ -15,9 +15,7 @@
 			"settings": {},
 			"extensions": [
 				"streetsidesoftware.code-spell-checker",
-				"mechatroner.rainbow-csv",
-				"ms-vscode.makefile-tools",
-				"github.vscode-github-actions"
+				"mechatroner.rainbow-csv"
 			]
 		}
 	},
