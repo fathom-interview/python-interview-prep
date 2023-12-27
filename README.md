@@ -18,7 +18,7 @@ NOTE: It may take a minute or two for the container running the development envi
 
 ### 2. Familiarize Yourself with VSCode
 
-In the new tab, you'll have a full fledge [Visual Studio Code](https://code.visualstudio.com/), shortened to VSCode, and container to build and test your code in. Each interview will have a different VSCode and container managed by Codespaces that will be pre-installed with all of the software you'll need to complete the set of tasks. For the purposes of interviewing you will only be allowed the extensions and tools given to you in a VSCode instance.
+In the new tab, you'll have a full fledged [Visual Studio Code](https://code.visualstudio.com/), shortened to VSCode, and container to build and test your code in. Each interview will have a different VSCode and container managed by Codespaces that will be pre-installed with all of the software you'll need to complete the set of tasks. For the purposes of interviewing you will only be allowed the extensions and tools given to you in a VSCode instance.
 
 Take a look around and use this as a playground. Be sure you understand how to:
 - Find and navigate the file structure
