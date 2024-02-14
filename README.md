@@ -1,6 +1,6 @@
 # Python Interview Prep
 
-Thanks for interviewing at Fathom. To make sure you're prepared before your interviews, we'd like to have you test out the interview coding environment in advance. This process should at most take 5 minutes.
+Thanks for interviewing at Fathom. To make sure you're prepared before your interviews, we'd like to have you test out the interview coding environment in advance. This process should at most take 5 minutes. :)
 
 For some of our interviews we'll be using Github Codespaces to give you a repo and development environment similar to what you'd use in your day-to-day job. Please work through the following guide to make sure you understand Github Codespaces, how to use the development environment and the toolchain. 
 
